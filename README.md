@@ -13,30 +13,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yazhinigp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40" />
-  </a>
-  <a href="mailto:yazhinigp2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="40" />
-  </a>
-  <a href="https://leetcode.com/u/Yazhini_G_P/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" height="40" />
-  </a>
-</p>
-
----
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yazhini_G_P?theme=dark&font=Baloo%20Bhaijaan%202" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -55,6 +31,14 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yazhini_G_P?theme=dark&font=Baloo%20Bhaijaan%202" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -64,4 +48,27 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yazhinigp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:yazhinigp2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/Yazhini_G_P/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" height="40" />
+  </a>
+</p>
+
+---
+
 > "Create real solutions. Keep it simple, keep it useful."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yazhini-gp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
