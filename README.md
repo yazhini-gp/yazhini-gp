@@ -16,10 +16,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yazhini-gp" target="_blank">
+  <a href="https://linkedin.com/in/yazhinigp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:yazhini.ygp@gmail.com">
+  <a href="mailto:yazhinigp2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="40" />
   </a>
   <a href="https://leetcode.com/u/Yazhini_G_P/" target="_blank">
@@ -61,13 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yazhini-gp&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazhini-gp&theme=dark" alt="GitHub Streak Stats" />
 </p>
-
----
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/yazhinigp)
-- 📬 Email: yazhinigp2006@gmail.com
 
 ---
 
